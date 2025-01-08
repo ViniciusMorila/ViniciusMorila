@@ -1,9 +1,7 @@
-# Hi! I'm Vinicius
+# Backend Software Developer | at LuizaLabs
 
-Backend Software Developer | at LuizaLabs
-
-## <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" height="300" alt="programmer-struggle-gif">
+ <p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" height="200" alt="programmer-struggle-gif">
 </p>
 
 
