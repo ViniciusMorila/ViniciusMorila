@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinicius</h1>
-<h3 align="center">Junior Software Developer | | em LuizaLabs</h3>
+<h3 align="center">Backend Software Developer | at LuizaLabs</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
