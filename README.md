@@ -44,6 +44,7 @@
 
 ## 📈 Stats
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusMorila&layout=donut&theme=tokyonight)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViniciusMorila&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
